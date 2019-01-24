@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-The original file is [`vue/original/index.stand-alone.html`](vue/original/index.stand-alone.html), written in Vue. It is being recreated using various front-end technologies (currently React, Elm, Angular, JS, Vue )
+The original file is [`original.html`](original.html), written in Vue. It is being recreated using various front-end technologies (currently React, Elm, Angular, JS, Vue )
 
 ## Requirements
 
