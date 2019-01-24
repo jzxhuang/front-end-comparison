@@ -1,0 +1,4 @@
+#!/bin/bash
+printf "\n\e[0;32m🍣   Making all Elm files...\e[0m\n\n"
+npx elm make elm/original/src/Main.elm --optimize --output=elm/original/js/elm.js
+npx elm make elm/improved/src/Main.elm --optimize --output=elm/improved/js/elm.js

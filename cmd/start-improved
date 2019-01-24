@@ -1,0 +1,4 @@
+#!/bin/bash
+printf "\n\e[0;32m🍣   Starting elm-live...\e[0m\n\n"
+# elm-live elm/improved/src/Main.elm --open true --start-page index.html --port 8002 --path-to-elm node_modules/.bin/elm -- --output elm/improved/js/elm.js --optimize
+npx http-server -o
